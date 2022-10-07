@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin Kumar
 - 👀 I’m interested in Software Engineer and Mern Stack Development
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I have learned MERN Stack Development
 - 📫 Reach me on sachin7368kr@gmail
 
 <!---
