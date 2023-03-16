@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin Kumar
-- 👀 I’m interested in Software Engineer and Mern Stack Development
-- 📫 Reach me on sachin7368kr@gmail
+- 👀 Software Developer - Frontend at Settlrs
+- 📫 Reach me on sachin7368kr@gmail.com
 
 <!---
 sachinkr7368/sachinkr7368 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
