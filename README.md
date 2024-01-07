@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python, Django<br>💬 Ask me about React, JavaScript, HTML, CSS, Redux etc.<br>📫 Reach me at sachin7368kr@gmail.com<br>⚡ Fun fact I think I am funny<br/>#### [Portfolio Link](https://sachinkr7368.contra.com/)
+🌱 I’m currently learning Python, Django<br>💬 Ask me about React, JavaScript, HTML, CSS, Redux etc.<br>📫 Reach me at sachin7368kr@gmail.com<br>⚡ Fun fact I think I am funny<br/>[Portfolio Link](https://sachinkr7368.contra.com/)
 
 
 ## 🌐 Socials:
