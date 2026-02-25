@@ -4,7 +4,7 @@
 <h3 align="center">Frontend Engineer • AI-Native Builder • @caffeinefaildev</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Shipping+Production-Grade+React+Apps;Building+AI-Powered+Products;Performance+Obsessed+Engineer;Clean+Architecture+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Shipping+Production-Grade+React+Apps;Building+AI-Powered+Products;System-Focused+Frontend+Engineer;Clean+Architecture+Advocate" />
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 
 ---
 
-## Engineering Focus
+## What I Deliver
 
-- Production-grade React architecture
-- Performance optimization & rendering control
-- Real-time & streaming systems
-- Scalable subscription systems (Stripe + Webhooks)
-- Clean UI systems with motion & accessibility
+- Architect scalable React & Next.js applications used in production
+- Improve performance (render optimization, memoization, bundle control)
+- Design real-time & streaming UI systems
+- Build subscription architectures (Stripe + Webhooks + DB sync)
+- Create polished, accessible UI systems with motion
 
 ---
 
@@ -64,6 +64,24 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai)
 ![Antigravity](https://img.shields.io/badge/Antigravity-black?style=for-the-badge)
 
+---
+
+## System-Level Experience
+
+- Designed webhook-safe subscription sync logic
+- Handled streaming API responses in real-time UIs
+- Refactored large React components without breaking CSS
+- Built role-based team/workspace systems
+- Optimized re-render cycles in complex dashboards
+
+## Product Systems I’ve Built
+
+- AI-powered Digital Persona Platform (Gemini + Mem0 persistent memory architecture)
+- Stripe subscription lifecycle with webhook-safe DB sync
+- Real-time streaming conversational UI
+- Enterprise dashboard managing 15k+ monthly tickets, approvals & transactions
+- React Native QR asset tracking system
+
 > I don’t use AI to replace thinking.  
 > I use it to accelerate execution.
 
@@ -75,7 +93,6 @@
 ✔ Performance is a feature  
 ✔ Clean code scales, hacks don’t  
 ✔ UI is product, not decoration  
-✔ Production > tutorial projects  
 
 ---
 
