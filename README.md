@@ -21,16 +21,6 @@
 
 ---
 
-## What I Deliver
-
-- Architect scalable React & Next.js applications used in production
-- Improve performance (render optimization, memoization, bundle control)
-- Design real-time & streaming UI systems
-- Build subscription architectures (Stripe + Webhooks + DB sync)
-- Create polished, accessible UI systems with motion
-
----
-
 ## Core Stack
 
 ### Frontend
@@ -66,6 +56,16 @@
 
 ---
 
+## What I Deliver
+
+- Architect scalable React & Next.js applications used in production
+- Improve performance (render optimization, memoization, bundle control)
+- Design real-time & streaming UI systems
+- Build subscription architectures (Stripe + Webhooks + DB sync)
+- Create polished, accessible UI systems with motion
+
+---
+
 ## System-Level Experience
 
 - Designed webhook-safe subscription sync logic
@@ -73,6 +73,8 @@
 - Refactored large React components without breaking CSS
 - Built role-based team/workspace systems
 - Optimized re-render cycles in complex dashboards
+
+---
 
 ## Product Systems I’ve Built
 
