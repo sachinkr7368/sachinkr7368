@@ -14,9 +14,9 @@
   <a href="https://linkedin.com/in/sachinkr7368">
     <img src="https://img.shields.io/badge/LinkedIn-Sachin%20Kumar-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://twitter.com/sachintwtss">
+  <!-- <a href="https://twitter.com/sachintwtss">
     <img src="https://img.shields.io/badge/X-@sachintwtss-black?style=for-the-badge&logo=x">
-  </a>
+  </a> -->
 </p>
 
 
