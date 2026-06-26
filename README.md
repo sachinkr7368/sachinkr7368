@@ -1,7 +1,7 @@
 <!-- HERO SECTION -->
 
 <h1 align="center">Sachin Kumar</h1>
-<h3 align="center">Frontend Engineer • AI-Native Builder • @caffeinefaildev</h3>
+<h3 align="center">Frontend Engineer • AI-Native Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=650&lines=Shipping+Production-Grade+React+Apps;Building+AI-Powered+Products;System-Focused+Frontend+Engineer;Clean+Architecture+Advocate" />
