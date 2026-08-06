@@ -1,7 +1,7 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 
 <h1 align="center">Sachin Kumar</h1>
-<h3 align="center">Product Engineer — Full-Stack • AI-Native</h3>
+<h3 align="center">Product Engineer - Full-Stack • AI-Native</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Product+Engineer;React+%2B+Next.js+%E2%86%92+Node+%2B+NestJS+%2B+Postgres;Building+AI-Powered+Products+End+to+End;From+Figma+to+Production+Deploy" />
@@ -115,17 +115,33 @@ React Native app + backend for physical asset tracking with QR workflows.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sachinkr7368&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkr7368&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=sachinkr7368&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachinkr7368&theme=tokyonight" />
+  <img src="https://ghchart.rshah.org/00F7FF/sachinkr7368" alt="Contribution graph" width="90%" />
 </p>
+
+<!--
+  ─────────────────────────────────────────────────────────────
+  OPTIONAL: full stats + top-languages cards.
+  The public github-readme-stats.vercel.app instance is paused /
+  rate-limited, so these only work if you self-host (5 min):
+
+  1. Go to https://github.com/anuraghazra/github-readme-stats
+  2. Click "Deploy to Vercel" button in their README (free tier is fine)
+  3. Create a GitHub PAT (no scopes needed for public repos),
+     add it as PAT_1 env var in Vercel
+  4. Replace YOUR-APP below with your Vercel deployment name
+     and uncomment this block:
+
+<p align="center">
+  <img height="165" src="https://YOUR-APP.vercel.app/api?username=sachinkr7368&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://YOUR-APP.vercel.app/api/top-langs/?username=sachinkr7368&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+  ─────────────────────────────────────────────────────────────
+-->
+
 
 ---
 
