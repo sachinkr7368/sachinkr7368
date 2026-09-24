@@ -4,6 +4,12 @@
 <h3 align="center">Product Engineer - Full-Stack • AI-Native</h3>
 
 <p align="center">
+  <a href="https://hello-sachin.vercel.app"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://hello-sachin.vercel.app">hello-sachin.vercel.app</a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Product+Engineer;React+%2B+Next.js+%E2%86%92+Node+%2B+NestJS+%2B+Postgres;Building+AI-Powered+Products+End+to+End;From+Figma+to+Production+Deploy" />
 </p>
 
