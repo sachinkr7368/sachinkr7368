@@ -1,157 +1,110 @@
-<!-- ═══════════════════════ HERO ═══════════════════════ -->
-
-<h1 align="center">Sachin Kumar</h1>
-<h3 align="center">Product Engineer - Full-Stack • AI-Native</h3>
-
-<p align="center">
-  <a href="https://hello-sachin.vercel.app"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://hello-sachin.vercel.app">hello-sachin.vercel.app</a>
-</p>
+<a href="https://sachin-shell.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
+    <img alt="sachin@shell: Sachin Kumar, Product Engineer at Glomo, Bengaluru" src="./assets/terminal-dark.svg" width="100%">
+  </picture>
+</a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Product+Engineer;React+%2B+Next.js+%E2%86%92+Node+%2B+NestJS+%2B+Postgres;Building+AI-Powered+Products+End+to+End;From+Figma+to+Production+Deploy" />
+  <a href="https://sachin-shell.vercel.app"><img src="https://img.shields.io/badge/❯_open_the_shell-sachin--shell.vercel.app-3fb950?style=for-the-badge&labelColor=0d1117" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/sachinkr7368"><img src="https://img.shields.io/badge/linkedin-sachinkr7368-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"></a>
+  <a href="https://x.com/sachintwtss"><img src="https://img.shields.io/badge/x-@sachintwtss-c9d1d9?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X"></a>
+  <a href="mailto:sachin7368kr@gmail.com"><img src="https://img.shields.io/badge/mail-say_hi-f778ba?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"></a>
 </p>
 
-<p align="center">
-  <a href="mailto:sachin7368kr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sachin7368kr@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/sachinkr7368">
-    <img src="https://img.shields.io/badge/LinkedIn-sachinkr7368-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <em>I ship products, not just features — owning everything from schema design to the last pixel.</em>
-</p>
-
----
-
-## 🧭 What I Do
-
-I build and ship production software across the full stack:
-
-| Layer | What I own |
-|---|---|
-| **Product & UI** | Polished, accessible interfaces • real-time & streaming UIs • motion design |
-| **Frontend Architecture** | Scalable React/Next.js apps • render optimization • bundle control |
-| **Backend & APIs** | NestJS/Node services • webhook-safe payment flows • role-based access systems |
-| **Data & Infra** | PostgreSQL/MongoDB schema design • Supabase • Docker • AWS deploys |
-| **AI Integration** | LLM streaming pipelines • persistent memory architectures • agentic workflows |
-
----
-
-## 🛠 Core Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Cloud & Infra**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**AI-Native Workflow**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?style=for-the-badge)
-![Antigravity](https://img.shields.io/badge/Antigravity-1a1a2e?style=for-the-badge)
-
-> I don't use AI to replace thinking. I use it to accelerate execution.
-
----
-
-## 🚀 Products I've Shipped
-
-**🤖 AI Digital Persona Platform**
-Full-stack AI product — Gemini + Mem0 persistent memory architecture, real-time streaming conversational UI, subscription billing. Owned frontend, backend, and AI pipeline.
-
-**💳 Stripe Subscription Engine**
-Complete subscription lifecycle — checkout, webhook-safe DB sync, plan upgrades/downgrades, dunning. Built to survive out-of-order webhook delivery.
-
-**📊 Enterprise Operations Dashboard**
-Handles 15k+ monthly tickets, approvals & transactions. Role-based team/workspace system, optimized re-render cycles across complex data-heavy views.
-
-**📱 QR Asset Tracking System**
-React Native app + backend for physical asset tracking with QR workflows.
-
----
-
-## ⚙️ System-Level Experience
-
-- Designed **webhook-safe payment sync** logic that handles retries, races, and out-of-order events
-- Built **streaming API pipelines** end-to-end: server-sent tokens → buffered rendering → smooth UI
-- Architected **role-based team/workspace systems** (auth, permissions, invitations)
-- Refactored large legacy React surfaces **without visual regressions**
-- Profiled and eliminated **re-render bottlenecks** in production dashboards
-
----
-
-## 🧠 Engineering Principles
-
-```
-1. Ship fast, refactor faster
-2. Performance is a feature
-3. Own the whole stack — no "not my layer"
-4. UI is product, not decoration
-5. Clean code scales, hacks don't
+```console
+❯ cat about.txt
 ```
 
----
+I own the interface in front of money: hosted checkout, white-label merchant dashboards and the design systems under them, from Figma to production. Four years across cross-border payments, embedded wallets and AI.
 
-## 📈 GitHub Analytics
+<table>
+  <tr>
+    <td align="center" width="25%"><h1>-20%</h1><sub>checkout drop-off</sub></td>
+    <td align="center" width="25%"><h1>-40%</h1><sub>API latency, better vitals</sub></td>
+    <td align="center" width="25%"><h1>+30%</h1><sub>faster UI via the design system</sub></td>
+    <td align="center" width="25%"><h1>-60%</h1><sub>manual entry, asset tagging</sub></td>
+  </tr>
+</table>
+
+```console
+❯ git log --oneline --career
+```
+
+```diff
++ 2026 ─ now   Product Engineer      @ Glomo           checkout · dashboards · theming
+! 2025 ─ 2026  Frontend Engineer     @ Qurios AI       remote
+! 2022 ─ 2025  Frontend Developer    @ Settlrs         embedded wallets, web3
+# 2022         Full Stack Trainee    @ Newton School   where it started
+```
+
+```console
+❯ ls ~/side-quests --sort=fun
+```
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sachinkr7368/garnet">💎 garnet</a></h3>
+      A free, open-source Ruby &amp; Rails IDE for macOS. RubyMine-style flow, no account, no telemetry.<br><br>
+      <code>Rust</code> <code>Tauri</code> <code>TypeScript</code>
+      &nbsp;·&nbsp; <a href="https://github.com/sachinkr7368/garnet/releases/latest">download</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sachinkr7368/aperio">📘 aperio</a></h3>
+      Free OpenAPI docs engine: interactive reference, try-it client, samples in 10 languages, A–F linter, mocks, spec diff.<br><br>
+      <code>Next.js 16</code> <code>React 19</code> <code>Tailwind</code>
+      &nbsp;·&nbsp; <a href="https://aperio-nine.vercel.app">live</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sachinkr7368/retainersnap">📊 retainersnap</a></h3>
+      Monthly branded client reports for Framer, Webflow and Next.js retainers.<br><br>
+      <code>Next.js</code> <code>TypeScript</code>
+      &nbsp;·&nbsp; <a href="https://retainersnap.vercel.app">live</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sachinkr7368/pathly">🧭 pathly</a></h3>
+      An AI career OS for students and professionals.<br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>LLMs</code>
+      &nbsp;·&nbsp; <a href="https://pathly-mu-nine.vercel.app">live</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sachinkr7368/xray-debugger">🩻 xray-debugger</a></h3>
+      A library + dashboard for debugging multi-step, non-deterministic systems. Tracing shows <i>what</i> happened; X-Ray shows <i>why</i>.<br><br>
+      <code>Next.js 15</code> <code>TypeScript</code> <code>shadcn/ui</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sachinkr7368/jsontreevisualizer">🌳 json-tree</a></h3>
+      Paste JSON, get a zoomable React Flow tree with JSONPath search and click-to-copy paths.<br><br>
+      <code>Next.js</code> <code>React Flow</code>
+      &nbsp;·&nbsp; <a href="https://jsontreevisualizer-pearl.vercel.app">live</a>
+    </td>
+  </tr>
+</table>
+
+```console
+❯ cat skills.txt
+```
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sachinkr7368&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,mui,redux,nodejs,nestjs,rails,ruby,rust,tauri,postgres,mongodb,firebase,docker,aws,vercel,git,figma&perline=11&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Vite, Tailwind, MUI, Redux, Node.js, NestJS, Rails, Ruby, Rust, Tauri, Postgres, MongoDB, Firebase, Docker, AWS, Vercel, Git, Figma">
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/00F7FF/sachinkr7368" alt="Contribution graph" width="90%" />
-</p>
+<sub><b>domain</b> &nbsp; checkout · white-label UI · multi-tenant theming · KYC · Stripe · Privy · web3 &nbsp;|&nbsp; <b>workflow</b> &nbsp; Claude Code · Cursor, used to ship faster, never to skip the thinking</sub>
 
-<!--
-  ─────────────────────────────────────────────────────────────
-  OPTIONAL: full stats + top-languages cards.
-  The public github-readme-stats.vercel.app instance is paused /
-  rate-limited, so these only work if you self-host (5 min):
+```console
+❯ ./contributions --eat
+```
 
-  1. Go to https://github.com/anuraghazra/github-readme-stats
-  2. Click "Deploy to Vercel" button in their README (free tier is fine)
-  3. Create a GitHub PAT (no scopes needed for public repos),
-     add it as PAT_1 env var in Vercel
-  4. Replace YOUR-APP below with your Vercel deployment name
-     and uncomment this block:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sachinkr7368/sachinkr7368/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sachinkr7368/sachinkr7368/output/snake.svg">
+  <img alt="snake eating the contribution graph" src="https://raw.githubusercontent.com/sachinkr7368/sachinkr7368/output/snake.svg" width="100%">
+</picture>
 
-<p align="center">
-  <img height="165" src="https://YOUR-APP.vercel.app/api?username=sachinkr7368&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://YOUR-APP.vercel.app/api/top-langs/?username=sachinkr7368&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-  ─────────────────────────────────────────────────────────────
--->
-
-
----
-
-<p align="center">
-  <em>Open to building products that matter. Let's talk →</em>
-  <a href="mailto:sachin7368kr@gmail.com"><strong>sachin7368kr@gmail.com</strong></a>
-</p>
+<p align="center"><sub>❯ <code>exit</code> &nbsp;·&nbsp; the full interactive version lives at <a href="https://sachin-shell.vercel.app">sachin-shell.vercel.app</a></sub></p>
